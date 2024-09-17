@@ -1,0 +1,19 @@
+<body>
+    <h1>Hello, test.ruve!</h1>
+
+    <button onclick="link('index.ruve')">Menu</button>
+    <button onclick="run('python1')">Uruchom kod python</button>
+
+    <!-- Python script -->
+    <script id="python1" lang="py">
+print("python działa")
+    </script>
+</body>
+
+
+
+
+
+
+
+

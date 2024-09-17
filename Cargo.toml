@@ -1,0 +1,7 @@
+[package]
+name = "przyklad"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ruve = "0.1"

@@ -1,0 +1,23 @@
+<body>
+    <!-- Hello text -->
+    <h1>Hello, Ruve!</h1>
+
+    <!-- Buttons -->
+    <button onclick="link('test.ruve')">otwórz test.ruve</button>
+    <button onclick="run('rust1')">Click me rust</button>
+
+    <!-- Rust script -->
+    <script id="rust1" lang="rs">
+fn main() {
+    println!{"rust działa"};
+}
+    </script>
+</body>
+
+
+
+
+
+
+
+
